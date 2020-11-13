@@ -88,3 +88,4 @@ pick = evokeds['1'].ch_names.index('MGB')
 plot_compare_evokeds(evokeds, picks=pick, ylim=dict(eeg=(-0.05, 0.05)))
 #%%
 epochs['1'].plot_image(picks=['MGB'])
+#try git
